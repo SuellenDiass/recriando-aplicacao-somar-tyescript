@@ -10,7 +10,7 @@
 
 ###  Nesse curso foi feito uma aplicação de somar em typeScript e estudado a relação entre tipos de variáveis.
 
-### Há dois HEADME.md um dentro da pasta exemplos que é do professo e outro dentro da pasta recriando aplicação é o  meu.
+### Há dois HEADME.md um dentro da pasta exemplos que é do professor e outro dentro da pasta recriando aplicação é o  meu.
 
 
 
